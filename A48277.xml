@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Generall Leven, the Lord Fairfax, and the Earl of Manchester, to the committee of both kingdoms, and by them communicated to the Parliament concerning the great victory it hath pleased God to give them over the forces under the command of Prince Rupert and the Marquesse of Newcastle, at Marston-Moor, near York, July the second, 1644 / signed thus, Leven, Lindsey, F. Fairfax, Tho. Hatcher, Manchester ; expressing also what number of the enemy are slain, what number taken prisoners, and what ordnance, arms and ammunition the enemy lost ; also an order of the Commons assembled in Parliament, for Thursday the 18 of this present July, for a day of publike thanksgiving throughout the whole kingdom ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48277</idno>
+            <idno type="STC">Wing L1817</idno>
+            <idno type="STC">ESTC R37975</idno>
+            <idno type="EEBO-CITATION">17157057</idno>
+            <idno type="OCLC">ocm 17157057</idno>
+            <idno type="VID">106001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Generall Leven, the Lord Fairfax, and the Earl of Manchester, to the committee of both kingdoms, and by them communicated to the Parliament concerning the great victory it hath pleased God to give them over the forces under the command of Prince Rupert and the Marquesse of Newcastle, at Marston-Moor, near York, July the second, 1644 / signed thus, Leven, Lindsey, F. Fairfax, Tho. Hatcher, Manchester ; expressing also what number of the enemy are slain, what number taken prisoners, and what ordnance, arms and ammunition the enemy lost ; also an order of the Commons assembled in Parliament, for Thursday the 18 of this present July, for a day of publike thanksgiving throughout the whole kingdom ...</title>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Hatcher, Thomas, 1589?-1677.</author>
+                  <author>Balcarres, Alexander Lindsay, Earl of, 1618-1659.</author>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by especiall command and re-printed at Edinburgh by Evan Tyler ...,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Mercurii, 10 Julii, 1644. Ordered by the Commons in Parliament that this letter be forthwith printed and pubished.  H. Elsynge, Cl.P.D.Com."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Marston Moor, Battle of, 1644.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:106001:1"/>
+                  <pb facs="tcp:106001:1"/>
+                  <p>A LETTER FROM Generall <hi>Leven,</hi> the Lord <hi>Fairfax,</hi> and the Earle of <hi>Mancheſter;</hi> To the Committee of both Kingdoms: And by them communicated to the Parliament; Concerning the great VICTORY It hath pleaſed GOD to give them, over the Forces under the command of Prince RUPERT and the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>New-caſtle,</hi> at <hi>Marſton-Moor,</hi> near <hi>York,</hi> July the Second, 1644.</p>
+                  <p>Signed thus:
+<list>
+                        <item>Leven.</item>
+                        <item>Lindſey.</item>
+                        <item>Tho: Hatcher.</item>
+                        <item>F. Fairfax.</item>
+                        <item>Mancheſter.</item>
+                     </list>
+                  </p>
+                  <p>Expreſſing alſo what number of the Enemy are ſlain, what number ta<g ref="char:EOLhyphen"/>ken priſoners, and what Ordnance, Arms, and Ammunition the Enemy loſt.</p>
+                  <p>Alſo an Order of the Commons aſſembled in Parliament, for Thurſday the 18. of this preſent July, for a day of publike Thankſ<g ref="char:EOLhyphen"/>giving throughout the whole Kingdom.</p>
+                  <p>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="license">
+                              <opener>
+                                 <dateline>
+                                    <date>Die Mercurii. 10. Julii<g ref="char:punc">▪</g> 1644.</date>
+                                 </dateline>
+                              </opener>
+                              <p>ORdered by the Commons in Parliament, That this Letter be forthwith printed and publiſhed.</p>
+                              <closer>
+                                 <signed>H: Elſynge, Cl. P. D. Com.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </p>
+                  <p>Publiſhed by eſpeciall Command<g ref="char:punc">▪</g> AND Re-printed at Edinburgh by EVAN TYLER, Printer to the Kings moſt Excellent Majeſty, 1644.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb n="4" facs="tcp:106001:2"/>
+                  <p>
+                     <gap reason="missing" extent="3 pages">
+                        <desc>〈3 pages missing〉</desc>
+                     </gap> the iſſue was the totall Routing of the Enemies Army, the loſſe of all their Ordnance, to the number of 20. their Am<g ref="char:EOLhyphen"/>munition and Baggage, about 100. Colours, and ten thou<g ref="char:EOLhyphen"/>ſand Armes: There were killed upon the place about 3000. of them, whereof many are chief Officers, and 1500. priſo<g ref="char:EOLhyphen"/>ners taken, amongſt whom there are above 100. Officers, in which number is Sir <hi>Charles Lucas,</hi> Lieutenant-Generall to the Marqueſſe of <hi>Newcaſtles</hi> Horſe, <hi>Porter</hi> Major-Gene<g ref="char:EOLhyphen"/>rall, and Major-Generall <hi>Tillier,</hi> beſides diverſe Colonells, Lieutenant-Colonells, and Majors. Our loſſe, God be praiſed, is not very great, being onely of one Lieutenant Colonell, ſome few Captains, and about two or three hun<g ref="char:EOLhyphen"/>dred common Souldiers. The Prince in a great diſtracti<g ref="char:EOLhyphen"/>on, with a few Horſemen, and almoſt no Foot, marched the next morning from <hi>York</hi> Northwards. Wee are now lying down again in our old Leaguer before <hi>York,</hi> which we are in hopes in a few dayes to gain, and are reſolved to ſend a great part of our Cavalrie after Prince <hi>Rupert:</hi> Wee having nothing to adde, but as the glory of all the ſucceſſe belongeth unto God, and the benefit wee hope, ſhall re<g ref="char:EOLhyphen"/>dound to the whole Kingdome. Wee have appointed this next Sabbath for a day of publicke Thankſgiving thorow<g ref="char:EOLhyphen"/>out the Armies: So your Lordſhips would appoint a day for the ſame to be kept throughout the Kingdom, and no<g ref="char:EOLhyphen"/>tice ſent to us thereof, that we may altogether joyn in it, and we ſhall continue,</p>
+                  <closer>
+                     <signed>Your Lordſhips affectionate friends and ſervants,
+<list>
+                           <item>Leven.</item>
+                           <item>Lindſey.</item>
+                           <item>Tho. Hatcher.</item>
+                           <item>F. Fairfax.</item>
+                           <item>Mancheſter.</item>
+                        </list>
+                     </signed>
+                     <dateline>From the Leaguer before York, <date>5. July, 1644.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:106001:2"/>
+                  <p>A FULL RELATION Of the late VICTORY OBTAINED <hi>(Through GODS Providence)</hi> By the Forces under the command of Generall <hi>Leſly,</hi> the Lord <hi>Fairfax,</hi> and the Earl of <hi>Mancheſter:</hi> Being about twenty ſeven thouſand Horſe and Foot.</p>
+                  <p>Againſt his Majeſties Forces under the command of Prince RU<g ref="char:EOLhyphen"/>PERT and the Earle of NEWCASTLE: Being much about the ſame number.</p>
+                  <p>Fought on MARSTON-MOOR, within 5. miles of YORK, on the ſecond of July, 1644.</p>
+                  <p>With a Relation of Prince <hi>Ruperts</hi> march towards <hi>Lancaſhire,</hi> and of the Forces ſent in purſuit after him: as alſo of the Earle of <hi>New<g ref="char:EOLhyphen"/>caſtles</hi> and Generall <hi>Kings</hi> taking, Ship for <hi>Holland.</hi>
+                  </p>
+                  <p>With the weak condition that YORK is now in having quit their great Fort, there not being 500 Souldiers in the Town beſide Citizens.</p>
+                  <p>Together with a LIST of the Cornets and Enſignes taken, with their ſeverall Mottoes.</p>
+                  <p>Sent by the three GENERALS to the Parliament, by Captaine STEWART.</p>
+                  <p>Publiſhed by Authoritie.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:106001:3"/>
+                  <pb n="7" facs="tcp:106001:3"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>MY earneſt deſire to ſatisfie your expectation, and the fear which I have, leſt our affairs here ſhould not be truely repreſented unto you, hath moved me to give you this ſhort account of the late Fight.</p>
+                  <p>Upon Munday laſt, underſtanding that Prince <hi>Rupert,</hi> with about Twenty thouſand Foot and Horſe, did march towards us, our whole Army aroſe from the Siege, and marched toward <hi>Longmarſton Moor,</hi> about 4 or 5 mile from <hi>York,</hi> where we quartred that night: But the Prince having notice of our march, paſſed with his Army by the way of <hi>Burroughbridge,</hi> ſo that by reaſon of the interpoſing River, we could not hinder his paſſage into <hi>York:</hi> Whereupon we marched to <hi>Todcaſter,</hi> to prevent his going ſouthward; but before our Van was advanced, within a mile of <hi>Tod<g ref="char:EOLhyphen"/>caſter,</hi> we were advertiſed that the Prince was upon our Reare, and was come the length of <hi>Longmarſton,</hi> where he drew up his Armie in a place of great advantage, having the addition of the Earle of <hi>Newcaſtles</hi> Forces, reported to be about 6000. With as great expedition as could be, our Army was called back.</p>
+                  <p>In the mean while, the Enemy perceiving that our Ca<g ref="char:EOLhyphen"/>valry had poſſeſſed themſelves of a Corn Hill, and ha<g ref="char:EOLhyphen"/>ving diſcovered neer unto that Hill a place of great ad<g ref="char:EOLhyphen"/>vantage, where they might have both Sun and Winde of us, advanced thither with a Regiment of Red Coats, and a party of Horſe: but we underſtanding well their inten<g ref="char:EOLhyphen"/>tions,
+<pb n="8" facs="tcp:106001:4"/>and how prejudiciall it would be unto us, if they ſhould keep that ground, we ſent out a party which beat them off, and planted there our Left Wing of Horſe: ha<g ref="char:EOLhyphen"/>ving gained this place, Generall <hi>Leſley</hi> gave order for drawing up of the Battell: The Right Wing of Horſe was intruſted to Sir <hi>Thomas Fairfax,</hi> a man of known Va<g ref="char:EOLhyphen"/>lour and Reſolution, it did conſiſt of his whole Cavalry, and three Regiments of the Scottiſh Horſe, commanded by the Earle of <hi>Dalhouſie,</hi> Earle of <hi>Eglinton,</hi> and Lord <hi>Balgony:</hi> Next unto them was drawn up the Right Wing of the Foot, conſiſting of the Lord <hi>Fairfax</hi> his Foot, and two Brigades of the Scottiſh Foot for a Reſerve. In the main Battell was the Regiments of the Earle of <hi>Lindſey,</hi> Lord <hi>Maitland,</hi> Earle of <hi>Caſsils,</hi> and <hi>Kelheads,</hi> and two Brigades of the Earle of <hi>Mancheſters:</hi> In the Reſerve was the Earle of <hi>Balcleugh</hi> his Regiment, the Earle of <hi>Lowdons,</hi> Earle of <hi>Dumfermlings,</hi> Lord <hi>Coupers,</hi> Generall <hi>Hammiltouns</hi> Generall of the Artillery, <hi>Edinburgh</hi> Regi<g ref="char:EOLhyphen"/>ment, and a Brigade of <hi>Mancheſters.</hi> Upon the Left Wing of Horſe, was the Earle of <hi>Mancheſters</hi> whole Ca<g ref="char:EOLhyphen"/>valry, under command of Lieutenant Generall <hi>Cromwell,</hi> and three Regiments of the Scottiſh Horſe, commanded by Generall Major <hi>Leſly:</hi> and upon their Left hand, neer a croſſe Ditch, where the Enemy had a Regiment of Foot, was placed the Scottiſh Dragoones, under the command of Colonel <hi>Frizel.</hi> Orders being given to advance, the Battell was led on by General <hi>Hammiltoun,</hi> Lieutenant General <hi>Baylie,</hi> and Major General <hi>Crawford:</hi> The Re<g ref="char:EOLhyphen"/>ſerve being committed to the truſt of General Major <hi>Lumſden.</hi> There was a great Ditch between the Enemy and us, which ran along the Front of the Battell, onely between the Earle of <hi>Manchesters</hi> Foot and the Enemy there was a Plain: in this Ditch the Enemy had placed
+<pb n="9" facs="tcp:106001:4"/>four Brigads of their beſt foot, which upon the advance of our Battel were forced to give ground, being gallantly aſ<g ref="char:EOLhyphen"/>ſaulted by the E. of <hi>Lindſayes</hi> Regiment, the Lord <hi>Maitlands, Caſsils,</hi> &amp; <hi>Kelheads,</hi> Gen: Major <hi>Crawford</hi> having overwing<g ref="char:EOLhyphen"/>ed the enemy, ſet upon their flank, &amp; did very good execu<g ref="char:EOLhyphen"/>tion upon the enemy, which gave occaſion to the Scottiſh Foot to advance &amp; paſſe the Ditch. The right wing of our Horſe had ſeveral misfortunes, for betwixt them &amp; the e<g ref="char:EOLhyphen"/>nemy there was no paſſage but at a narrow Lane, where they could not march above 3. or 4. in front: upon the one ſide of the Lane was a Ditch, and on the other an Hedge, both wherof were lined with Musketiers, notwithſtanding ſir <hi>Thomas Fairfax</hi> charged gallantly, but the enemy keep<g ref="char:EOLhyphen"/>ing themſelves in a body, and receiving them by threes and fours as they marched out of the lane, &amp; (by what miſtake I know not) ſir <hi>Tho. Fairfax</hi> his new levied Regiments being in the Van, they wheeled about, &amp; being hotly purſued by the enemy, came back upon the L. <hi>Fairfax</hi> foot, and the re<g ref="char:EOLhyphen"/>ſerve of the Scottiſh Foot, broke them wholly, &amp; trod the moſt part of them under foot. Sir <hi>Tho. Fairfax,</hi> Col. <hi>Lambert</hi> &amp; ſir <hi>Tho.</hi> his brother with 5. or 6. troops, charged through the enemy &amp; went to the left-wing of horſe, the two Squa<g ref="char:EOLhyphen"/>drons of <hi>Balgonies</hi> Regiment being divided by the Enemy each from the other, one of them being Lanciers, charged a Regiment of the Enemies foot, &amp; put them wholly to the rout, &amp; after joyned with the left-wing of Horſe, the other by another way went alſo to the left-wing; The Earle of <hi>Eglintons</hi> Regiment maintained their ground (moſt of the Enemies going on in the purſuit of the Horſe &amp; Foot that fled) but with the loſſe of 4. Lieuts: The Lieut. Col. the Ma<g ref="char:EOLhyphen"/>jor, and <hi>Eglintons</hi> ſon being deadly wounded, Sir <hi>Charles Lucas,</hi> and Gen. Major <hi>Porter</hi> having thus divided all our Horſe on that wing, aſſaulted the Scottiſh Foot upon their
+<pb n="10" facs="tcp:106001:5"/>Flanks, ſo that they have the Foot upon their front, and the whole Cavalry of the enemies leſt wing to fight with, whom they encountred with ſo much courage &amp; reſoluti<g ref="char:EOLhyphen"/>on, that having interlined their Musketiers with Pike-men, they made the enemies Horſe, notwithſtanding for all the aſſiſtance they had of their Foot, at two ſeverall aſſaults to give ground; and in this hot diſpute with both, they con<g ref="char:EOLhyphen"/>tinued almoſt an houre, ſtill maintaining their ground; Lievtenant Generall <hi>Bailie,</hi> and Generall Major <hi>Lumſden,</hi> (who both gave good evidence of their courage and skill) perceiving the greateſt weight of the battell to lye ſore upon the Earl of <hi>Lindſayes,</hi> and Lord <hi>Maitlands</hi> Regiment, ſent up a Reſerve for their aſſiſtance, after which the ene<g ref="char:EOLhyphen"/>mies Horſe having made a third aſſault upon them, had al<g ref="char:EOLhyphen"/>moſt put them in ſome diſorder; but that the Earl of <hi>Lind<g ref="char:EOLhyphen"/>ſay,</hi> &amp; Lievtenant Colonel <hi>Pitſcotti,</hi> Lievtenant Colonel to the Lord <hi>Maitlands</hi> Regiment behaved themſelves ſo gal<g ref="char:EOLhyphen"/>lantly, that they quickly made the enemies Horſe to re<g ref="char:EOLhyphen"/>treat, killed ſir <hi>Charles Lucas</hi> his Horſe, took him Priſoner, and gained ground upon the Foot.</p>
+                  <p>The Scottiſh Dragoons that were placed upon the left wing, by the good managing of Colonell <hi>Frizell,</hi> acted their part ſo well, that at the firſt aſſault they beat the Ene<g ref="char:EOLhyphen"/>my from the ditch, and ſhortly after killed a great many, and put the reſt to the rout. Lord Generall <hi>Cromwell</hi> charged Prince <hi>Ruperts</hi> horſe with exceeding great reſolu<g ref="char:EOLhyphen"/>tion, and maintained his charge with no leſſe valour. Ge<g ref="char:EOLhyphen"/>nerall-Major <hi>Leſly</hi> charged the Earle of Newcaſtles Bri<g ref="char:EOLhyphen"/>gade of White-coats, and cut them wholly off, ſome few excepted, who were taken priſoners, and after them char<g ref="char:EOLhyphen"/>ged a Brigade of Green-coats, whereof they cut off a great number, and put the reſt to the rout: which ſervice being
+<pb n="11" facs="tcp:106001:5"/>performed, he charged the Enemies Horſe, (with whom Lord Generall <hi>Cromwell</hi> was engaged) upon the flank, and in a very ſhort ſpace the Enemies whole Cavalry was routed, on whom our fore-troops did execution to the ve<g ref="char:EOLhyphen"/>ry wals of <hi>York;</hi> but our Body of Horſe kept their ground. Lieutenant Generall <hi>Cromwell,</hi> and Major-Generall <hi>Leſly</hi> being joyned, and receiving advertiſement, that our Foot were engaged with the Enemies Horſe and Foot, marched to their aſſiſtance, and met with the Enemies Horſe (being retreated upon the repulſe they had from the Scottiſh Foot) at the ſame place of diſ-advantage where they had routed our Horſe formerly; and indeed their ſucceſſe was anſwerable, if not much worſe, for we routed them whol<g ref="char:EOLhyphen"/>ly, killed and took their chief Officers, and moſt part of their Standards. After which wee ſet upon the Rear of their Foot, and with the aſſiſtance of our main Battell, which all this time ſtood firm, we put them wholly to the rout, killed many, and took their Officers and Colours, and by this time we had no Enemy in the Field. Wee took all their Ordnance being in number 25. near 130. barrels of Powder, beſides what was blown up by the common ſoul<g ref="char:EOLhyphen"/>diers, above an hundred Colours, &amp; ten thouſand Armes, beſides two Waggons of Carbines and Piſtols of ſpare Armes. There were killed upon the place 3000. where<g ref="char:EOLhyphen"/>of, upon a judicious view of the dead bodies, two parts ap<g ref="char:EOLhyphen"/>peared to be Gentlemen and Officers. There were 1500, priſoners taken, whereof Sir <hi>Charles Lucas</hi> Lieut. Gen. of the Earle of Newcaſtles Horſe, Major-Gen. <hi>Porter,</hi> &amp; Ma<g ref="char:EOLhyphen"/>jor-Gen. <hi>Tillier,</hi> beſides divers Colonels, Lieut. Col. and Majors. The loſſe upon our part, bleſſed be God, is not great, being onely of one Lieutenant-Col. ſome few Cap<g ref="char:EOLhyphen"/>tains, and not 300. common Souldiers. Upon Wedneſday,
+<pb n="12" facs="tcp:106001:6"/>the day after the fight, Prince <hi>Ruperts</hi> Sumpter-horſe was found in the Wood, with ſome of their proviſions: Upon Thurſday morning the Souldiers being drawn to their Arms upon a falſe Alarm, occaſion was taken to march to<g ref="char:EOLhyphen"/>wards <hi>York</hi> to our old Leaguer: about ſeven of the clock the Town was ſummoned to render upon mercy, where<g ref="char:EOLhyphen"/>unto anſwer was returned under Sir <hi>Thomas Gl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nhams,</hi> and the Major of the Towns hands, that they could not give it up upon ſuch termes: And if they ſhall continue in their obſtinate refuſals, wee are reſolved by Gods aſſiſtance to ſtorme it once this weeke following, for our Scaling-lad<g ref="char:EOLhyphen"/>ders and all other neceſſaries for a ſtorm are in readineſſe, there not being 500. fighting men in the Town, beſides the Citizens; eſpecially, the Enemy having quitted their great Fort for want of men to maintain it.</p>
+                  <p>We hear that there have been ſome differences between the Prince and the Earle of Newcaſtle, which appear to be more reall, that they have parted ſince: the Earle of <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> Generall <hi>King,</hi> and the Lord <hi>Widrington,</hi> are gone to <hi>Scaresborough,</hi> and as we underſtand ſince, are ſhipped for Holland, and Prince <hi>Rupert</hi> toward the North; his Ren<g ref="char:EOLhyphen"/>dezvous was twelve miles on the North ſide of <hi>York,</hi> where appeared about fifteen or ſixteen hundred horſe, and eight hundred foot. Upon Thurſday at night hee was at <hi>Richmond,</hi> ſo that it is yet doubtfull whether he intends for the Biſhoprick of Durham, or Lancaſhire: if he ſhall go to Durham and thoſe parts, wee hope <hi>Calender</hi> (who for cer<g ref="char:EOLhyphen"/>tain is before Newcaſtle) will entertain him: however, we have ſent after him all the Scottiſh Cavalry, all the Lord <hi>Mancheſters,</hi> one thouſand of the Lord <hi>Fairfaxes,</hi> and one thouſand Dragoons, in all ſeven thouſand. While I was about to cloſe my Letter, we received information, that the
+<pb n="13" facs="tcp:106001:6"/>Lord <hi>Clavering</hi> with about 2000. Foot and Horſe, are joy<g ref="char:EOLhyphen"/>ned with the Prince, and that he is gone to Lancaſhire: whereupon Sir <hi>John Meldrum,</hi> with the Lancaſhire and Scottiſh Foot that were there formerly, and Sir <hi>William Brereton</hi> with 1500. Horſe, are returned the neereſt way to Lancaſhire, to ſtop the Prince his paſſage into the South, till our Horſe be able to overtake him. The three Gene<g ref="char:EOLhyphen"/>ralls have ſent the bearer hereof Captain <hi>William Stuart</hi> (a Scottiſh Officer that did good ſervice in the late Fight) to the Parliament with the Earle of Newcaſtles Commiſſi<g ref="char:EOLhyphen"/>on for being Generall, and his Commiſſion for making of Knights, which were taken at the Fight, together with ſome Letters of Sir <hi>John Hothams,</hi> whereby it is clearly made known that he intended to betray <hi>Hull</hi> to the Ene<g ref="char:EOLhyphen"/>my. There are likewiſe ſent by him all the Coronets, and Colours, which could be got from the Souldiers, who e<g ref="char:EOLhyphen"/>ſteem it a great glory to divide them in pieces and weare them: And before Proclamation was made for delivery of them, they had diſpoſed of the moſt part of them. I have ſent you here incloſed, a Liſt of ſuch as were preſer<g ref="char:EOLhyphen"/>ved, and now ſent, with their ſeverall Mottoes: and ſo for the preſent I take my leave, and reſt,</p>
+                  <closer>
+                     <dateline>At the Leaguer near <hi>York,</hi> 
+                        <date>July 6. at ten at night.</date>
+                     </dateline>
+                     <signed>Yours, &amp;c.</signed>
+                  </closer>
+               </div>
+               <div type="catalogue_of_coronets_colors_and_ensigns">
+                  <pb n="14" facs="tcp:106001:7"/>
+                  <head>A Liſt of the enemies Coronets and Co<g ref="char:EOLhyphen"/>lours, ſent by Cap. <hi>VVilliam Stuart.</hi>
+                  </head>
+                  <list>
+                     <item>1. A White Coronet of Dragoones with a blue and white fringe, in the midſt whereof is painted a Round-heads face, and on its top the letter <hi>P.</hi> (which is conceived to ſignifie a Puritan) with a Sword in a hand reached from a Cloud, with this Motto, <hi>Fiat Juſtitia.</hi>
+                     </item>
+                     <item>2. And Black Coronet with a black and yellow fringe, and a Sword reached from a Cloud, with this Motto, <hi>Terribilis ut acies ordinata.</hi>
+                     </item>
+                     <item>3. A Blue, and on it a Crown toward the top, with a Myter beneath the Crowne, with the Parliament painted on the ſide, and this Motto, <hi>Nolite tangere Chriſtos meos,</hi> to wit, the Crowne and the Myter.</item>
+                     <item>4. A Black with a black fringe, and in the middle three Crowns gilded, with this Motto, <hi>Quarta perennis erit.</hi>
+                     </item>
+                     <item>5. A Blue with a ſilver fringe.</item>
+                     <item>6. A Willow Green, with the pourtraiture of a man, holding in one hand a Sword, and in the other a Knot, with this Motto, <hi>This ſhall untie it.</hi>
+                     </item>
+                     <item>7. A Yellow, and in the middle a ſtooping Lyon, at whoſe breech lyeth ſnatching a Maſtife Dog, with this word, as it were proceeding from his mouth, <hi>Kimbolton,</hi> and at his feet little Beagles, and before their mouthes, <hi>Pym, Pym, Pym,</hi> with theſe words proceeding from his
+<pb n="15" facs="tcp:106001:7"/>mouth, <hi>Quouſque tandem abutere patientia noſtra?</hi> that is, How long will you abuſe our patience?</item>
+                     <item>8. A Blue, with a Motto that cannot be read.</item>
+                     <item>9. Another coloured, with a Face, and this Motto, <hi>Aut mors, aut vita decora.</hi>
+                     </item>
+                     <item>10. A White, with a Blue and White Fringe, and a Red Croſſe in the middle.</item>
+                     <item>11. A Red, with a White Croſſe, and this Motto, <hi>Pro Rege &amp; Regno.</hi>
+                     </item>
+                     <item>12. A Black, with a Black and Yellow Fringe, and a Red and White Croſſe in the middle, and a Yellow Strea<g ref="char:EOLhyphen"/>mer ſloping down from the Croſſe.</item>
+                     <item>13. A Red, with a Red Fringe.</item>
+                     <item>14. A Red, with a Silver Fringe.</item>
+                     <item>15. A Blue, with a Blue Fringe.</item>
+                     <item>16. Another of the ſame.</item>
+                     <item>17. A Red, with a Red and Gold Fringe.</item>
+                     <item>18. A White, with a Red and White Fringe.</item>
+                     <item>19. A Red, with a Black Fringe.</item>
+                     <item>20. A Black, with a Black and White Fringe.</item>
+                     <item>21. A Fleſh-coloured Coronet.</item>
+                  </list>
+                  <p>Some torne.</p>
+                  <list>
+                     <head>Enſignes.</head>
+                     <item>PRince <hi>Ruperts</hi> Standard, with the Enſignes of the Pa<g ref="char:EOLhyphen"/>latine, neere five yards long and broad, with a Red Croſſe in the middle.</item>
+                     <item>Three Green Enſignes, whereof two with a Red Croſſe upon White, and four or five little White Croſſes ſloping downward.</item>
+                     <item>Six Yellow Enſignes with Red Croſſes, and one
+<pb n="16" facs="tcp:106001:8"/>with a Red Croſſe, and three Black Roſes: The reſt one<g ref="char:EOLhyphen"/>ly Yellow.</item>
+                     <item>Four White, with Red Croſſes, whereof one with five Black Streamers.</item>
+                     <item>Eleven Red, with White Croſſes.</item>
+                     <item>A Blue, with a Red and White Croſſe.</item>
+                  </list>
+                  <p>Beſides above 60. Cornets ſeized on by the common Souldiers, who (notwithſtanding his Excellencies Pro<g ref="char:EOLhyphen"/>clamation for bringing in all ſuch Cornets and Colours, promiſing for each one Fourty ſhillings) refuſed, ſaying, <hi>They had ventured their lives for them, and they would wear them about their necks.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:106001:8"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
